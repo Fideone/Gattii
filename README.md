@@ -1,2 +1,2 @@
-# For machine learning Workflow
-For a reproducible workflow for machine learning prediction, see MLuploadPRO.md.
+# For MHR strain prediction workflow
+For a reproducible workflow for MHR strain prediction, see MLuploadPRO.md.
